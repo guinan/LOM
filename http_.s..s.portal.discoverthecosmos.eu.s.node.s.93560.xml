@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <general>
+    <structure>
+      <source>LOM v1.0</source>
+      <value>atomic</value>
+    </structure>
+    <aggregationlevel>
+      <source>LOM v1.0</source>
+      <value>1</value>
+    </aggregationlevel>
+    <identifier>
+      <catalog>URL</catalog>
+      <entry>http://portal.discoverthecosmos.eu/node/93560</entry>
+    </identifier>
+    <title>
+      <langstring xml:lang="el">Επεξεργασία γεγονότων απο το LHC</langstring>
+      <langstring xml:lang="" />
+    </title>
+    <language>el</language>
+    <description>
+      <langstring xml:lang="el">Επεξεργασία γεγονότων απο το πείραμα ATLAS του LHC μέσω του διαδραστικού εργαλείου HYPATIA.</langstring>
+      <langstring xml:lang="" />
+    </description>
+    <keyword>
+      <langstring xml:lang="en">lhc</langstring>
+      <langstring xml:lang="en">atlas</langstring>
+      <langstring xml:lang="en">detector</langstring>
+      <langstring xml:lang="en">accelerator</langstring>
+      <langstring xml:lang="en">events</langstring>
+      <langstring xml:lang="en">hypatia</langstring>
+      <langstring xml:lang="en">tracks</langstring>
+    </keyword>
+  </general>
+  <lifecycle>
+    <status>
+      <source>LOM v1.0</source>
+      <value>final</value>
+    </status>
+    <version>
+      <langstring xml:lang="en">1.0</langstring>
+    </version>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>author</value>
+      </role>
+      <date>
+        <datetime>2010-01-10</datetime>
+        <description />
+      </date>
+      <centity>
+        <vcard>Χριστίνα Κουρκουμέλη</vcard>
+      </centity>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>publisher</value>
+      </role>
+      <date>
+        <datetime />
+        <description />
+      </date>
+      <centity>
+        <vcard />
+      </centity>
+    </contribute>
+  </lifecycle>
+  <metametadata>
+    <language>el</language>
+    <metadatascheme>LOM v1.0</metadatascheme>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>creator</value>
+      </role>
+      <date>
+        <datetime />
+        <description />
+      </date>
+      <centity>
+        <vcard />
+      </centity>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>validator</value>
+      </role>
+      <date>
+        <datetime />
+        <description />
+      </date>
+      <centity>
+        <vcard />
+      </centity>
+    </contribute>
+  </metametadata>
+  <technical>
+    <duration>
+      <datetime />
+      <description />
+    </duration>
+    <requirement>
+      <type>
+        <source>LOM v1.0</source>
+        <value>browser</value>
+      </type>
+      <name>
+        <source>LOM v1.0</source>
+        <value>any</value>
+      </name>
+      <minimumversion />
+      <maximumversion />
+    </requirement>
+    <requirement>
+      <type>
+        <source>LOM v1.0</source>
+        <value>os</value>
+      </type>
+      <name>
+        <source>LOM v1.0</source>
+        <value>any</value>
+      </name>
+      <minimumversion />
+      <maximumversion />
+    </requirement>
+    <installationremarks />
+    <otherplatformrequirements />
+    <size />
+    <format>text/html</format>
+    <location>http://portal.discoverthecosmos.eu/node/93560</location>
+  </technical>
+  <rights>
+    <cost>
+      <source>LOM v1.0</source>
+      <value>no</value>
+    </cost>
+    <copyrightandotherrestrictions>
+      <source>LOM v1.0</source>
+      <value>no</value>
+    </copyrightandotherrestrictions>
+    <description />
+  </rights>
+  <educational>
+    <interactivitytype>
+      <source>LOM v1.0</source>
+      <value>active</value>
+    </interactivitytype>
+    <interactivitylevel>
+      <source>LOM v1.0</source>
+      <value>high</value>
+    </interactivitylevel>
+    <semanticdensity>
+      <source />
+      <value />
+    </semanticdensity>
+    <difficulty>
+      <source>LOM v1.0</source>
+      <value>difficult</value>
+    </difficulty>
+    <learningresourcetype>
+      <source>LOM v1.0</source>
+      <value>exercise</value>
+    </learningresourcetype>
+    <context>
+      <source>LOM v1.0</source>
+      <value>2 didactic hours</value>
+    </context>
+    <typicalagerange>
+      <langstring xml:lang="en">18-25</langstring>
+      <langstring xml:lang="en">25+</langstring>
+    </typicalagerange>
+  </educational>
+  <classification>
+    <purpose>
+      <source>LOM v1.0</source>
+      <value>Discipline</value>
+    </purpose>
+    <taxonpath>
+      <source>
+        <langstring xml:lang="en">Science</langstring>
+      </source>
+      <taxon>
+        <id />
+        <entry>
+          <langstring xml:lang="en">High Energy Physics: Accelerators &amp; Beams</langstring>
+          <langstring xml:lang="en">High Energy Physics: Calorimeters</langstring>
+          <langstring xml:lang="en">High Energy Physics: Charged particle acceleration</langstring>
+          <langstring xml:lang="en">High Energy Physics: Higgs particle</langstring>
+          <langstring xml:lang="en">High Energy Physics: Invariant mass</langstring>
+          <langstring xml:lang="en">High Energy Physics: Particle detectors</langstring>
+          <langstring xml:lang="en">High Energy Physics: Particle interactions with matter</langstring>
+        </entry>
+      </taxon>
+    </taxonpath>
+    <description />
+  </classification>
+</lom>
+
