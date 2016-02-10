@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <general>
+    <structure>
+      <source>LOM v1.0</source>
+      <value>atomic</value>
+    </structure>
+    <aggregationlevel>
+      <source>LOM v1.0</source>
+      <value>2</value>
+    </aggregationlevel>
+    <identifier>
+      <catalog>URL</catalog>
+      <entry>http://portal.discoverthecosmos.eu/node/93571</entry>
+    </identifier>
+    <title>
+      <langstring xml:lang="de">Die Verbindung zwischen ISS und CERN</langstring>
+      <langstring xml:lang="" />
+    </title>
+    <language>de</language>
+    <description>
+      <langstring xml:lang="de">Das Experiment AMS-02, welches 2010 zur Internationalen Raumstation ISS gestartet werden soll, soll als Verbindung zwischen dem Weltraum und der Hochenergiephysik sowie CERN dienen.</langstring>
+      <langstring xml:lang="" />
+    </description>
+    <keyword>
+      <langstring xml:lang="de">Teilchenphysik</langstring>
+      <langstring xml:lang="de">ISS</langstring>
+      <langstring xml:lang="de">Raumfahrt</langstring>
+      <langstring xml:lang="de">AMS</langstring>
+      <langstring xml:lang="de">Teilchendetektor</langstring>
+      <langstring xml:lang="de">CERN</langstring>
+      <langstring xml:lang="de">Hochenergiephysik</langstring>
+    </keyword>
+  </general>
+  <lifecycle>
+    <status>
+      <source>LOM v1.0</source>
+      <value>final</value>
+    </status>
+    <version>
+      <langstring xml:lang="en">1.0</langstring>
+    </version>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>author</value>
+      </role>
+      <date>
+        <datetime>2010-02-16</datetime>
+        <description />
+      </date>
+      <centity>
+        <vcard>Christian Reimers</vcard>
+      </centity>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>publisher</value>
+      </role>
+      <date>
+        <datetime>2010-02-16</datetime>
+        <description />
+      </date>
+      <centity>
+        <vcard>Christian Reimers</vcard>
+      </centity>
+    </contribute>
+  </lifecycle>
+  <metametadata>
+    <language>en</language>
+    <metadatascheme>LOM v1.0</metadatascheme>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>creator</value>
+      </role>
+      <date>
+        <datetime>2010-02-16</datetime>
+        <description />
+      </date>
+      <centity>
+        <vcard>Christian Reimers</vcard>
+      </centity>
+    </contribute>
+    <contribute>
+      <role>
+        <source>LOM v1.0</source>
+        <value>validator</value>
+      </role>
+      <date>
+        <datetime>2010-02-16</datetime>
+        <description />
+      </date>
+      <centity>
+        <vcard>Christian Reimers</vcard>
+      </centity>
+    </contribute>
+  </metametadata>
+  <technical>
+    <duration>
+      <datetime />
+      <description />
+    </duration>
+    <requirement>
+      <type>
+        <source>LOM v1.0</source>
+        <value />
+      </type>
+      <name>
+        <source>LOM v1.0</source>
+        <value />
+      </name>
+      <minimumversion />
+      <maximumversion />
+    </requirement>
+    <requirement>
+      <type>
+        <source>LOM v1.0</source>
+        <value />
+      </type>
+      <name>
+        <source>LOM v1.0</source>
+        <value />
+      </name>
+      <minimumversion />
+      <maximumversion />
+    </requirement>
+    <installationremarks />
+    <otherplatformrequirements />
+    <size />
+    <format>text/html</format>
+    <location>http://portal.discoverthecosmos.eu/node/93571</location>
+  </technical>
+  <rights>
+    <cost>
+      <source>LOM v1.0</source>
+      <value>no</value>
+    </cost>
+    <copyrightandotherrestrictions>
+      <source>LOM v1.0</source>
+      <value>no</value>
+    </copyrightandotherrestrictions>
+    <description />
+  </rights>
+  <educational>
+    <interactivitytype>
+      <source>LOM v1.0</source>
+      <value>mixed</value>
+    </interactivitytype>
+    <interactivitylevel>
+      <source>LOM v1.0</source>
+      <value>medium</value>
+    </interactivitylevel>
+    <semanticdensity>
+      <source />
+      <value />
+    </semanticdensity>
+    <difficulty>
+      <source>LOM v1.0</source>
+      <value>medium</value>
+    </difficulty>
+    <learningresourcetype>
+      <source>LOM v1.0</source>
+      <value>Inquiry-Based Teaching</value>
+    </learningresourcetype>
+    <context>
+      <source>LOM v1.0</source>
+      <value>more than 2 didactic hours</value>
+    </context>
+    <typicalagerange>
+      <langstring xml:lang="en">15-18</langstring>
+      <langstring xml:lang="en">18-25</langstring>
+    </typicalagerange>
+  </educational>
+  <classification>
+    <purpose>
+      <source>LOM v1.0</source>
+      <value>Discipline</value>
+    </purpose>
+    <taxonpath>
+      <source>
+        <langstring xml:lang="en">Science</langstring>
+      </source>
+      <taxon>
+        <id />
+        <entry>
+          <langstring xml:lang="en">Astronomy: Space flight</langstring>
+          <langstring xml:lang="en">High Energy Physics: Particle Cosmology</langstring>
+          <langstring xml:lang="en">High Energy Physics: Particle detectors</langstring>
+        </entry>
+      </taxon>
+    </taxonpath>
+    <description />
+  </classification>
+</lom>
+
