@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2016-02-29T09:40:20Z</responseDate><request verb="ListRecords" metadataPrefix="oai_lom">http://www.melt.fwu.de/oai2.php</request><ListRecords>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.2189353264_38165_13132</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.2189353264_38165_13132</entry></identifier>
+<title><string language="de">Antennen im Mobilfunknetz</string></title><language>de</language><description><string language="de">Foto:Die Antennen der Basisstationen im Mobilfunknetz leiten die empfangenen Funksignale über das Festnetz oder über Richtfunk zur Vermittlungsstelle weiter.</string></description><keyword><string language="de">Foto</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|Michael Huber
+N:ORG|Michael Huber
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.2189353264_38165_13132</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|Michael Huber
+N:ORG|Michael Huber
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>image/jpeg</format><size>140751</size><location>Antennen_Mobilfunknetz_062.jpg</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.2854270811_39350_13160</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.2854270811_39350_13160</entry></identifier>
+<title><string language="de">Akkutypen</string></title><language>de</language><description><string language="de">Fotocollage:So unterschiedlich wie die mobilen Endgeräte selbst sind auch ihre Energiespeicher, die Akkus und Batterien. </string></description><keyword><string language="de">Foto</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.2854270811_39350_13160</entry></identifier>
+<language>de</language></metaMetadata>
+<technical>
+<format>image/jpeg</format><size>141035</size><location>Akku_Typen_095.jpg</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.3026350330_39264_13139</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.3026350330_39264_13139</entry></identifier>
+<title><string language="de">Antennen und Hotspots auf der Spur</string></title><language>de</language><description><string language="de">Rechercheauftrag:Ein Stadtplan mit Mobilfunkantennen und Hotspots aus der Umgebung der Schule soll erstellt werden.</string></description><keyword><string language="de">Arbeitsblatt (druckbar)</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.3026350330_39264_13139</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/pdf</format><size>60998</size><location>Antennen_Hotspots_AB_063.pdf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.401513138_43078_13119</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.401513138_43078_13119</entry></identifier>
+<title><string language="de">Always-on - unsere neue Jugendkultur</string></title><language>de</language><description><string language="de">Unterrichtsidee:&quot;Always-on&quot; verändert die Jugendkultur - ist das den Schülern bewusst?</string></description><keyword><string language="de">Unterrichtsbaustein</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.401513138_43078_13119</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>mt</format><size>283957</size><location>Always_on_Jugendkul_UI_197.pdf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.5652463371_52522_13129</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.5652463371_52522_13129</entry></identifier>
+<title><string language="de">Analog und ISDN im Vergleich</string></title><language>de</language><description><string language="de">Animation:Den Unterschied zwischen der analogen und der digitalen (ISDN) Signalübertragung im Telefonfestnetz kann man wirklich hören.</string></description><keyword><string language="de">Grafik interaktiv</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.5652463371_52522_13129</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/x-shockwave-flash</format><size>184910</size><location>Analog_ISDN_Vergleich_061.swf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.5997898060_39661_13216</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.5997898060_39661_13216</entry></identifier>
+<title><string language="de">Ablauf eines Tele-fonates im Mobilnetz</string></title><language>de</language><description><string language="de">Zuordnungsaufgabe:Die Schritte (vereinfacht) eines Telefonates im Mobilnetz sollen in die richtige Reihenfolge gebracht werden.</string></description><keyword><string language="de">Arbeitsblatt (interaktiv)</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.5997898060_39661_13216</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/x-shockwave-flash</format><size>10474</size><location>Ablauf_Telef_Mnetz_AB_245.swf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.6329443158_39253_13160</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.6329443158_39253_13160</entry></identifier>
+<title><string language="de">Antennen bei mobilen Geräten</string></title><language>de</language><description><string language="de">Grafik:Mobile Geräte benötigen eine Antenne zum Senden bzw. Empfangen von Funkwellen. Diese war früher meist sichtbar außen am Gerät angebracht, heute ist sie meist in das Gerät integriert.</string></description><keyword><string language="de">technische Darstellung</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.6329443158_39253_13160</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>image/jpeg</format><size>122336</size><location>Antenne_bei_mob_Geraet_097.jpg</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.6546245460_43001_13119</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.6546245460_43001_13119</entry></identifier>
+<title><string language="de">Always-on in Zahlen</string></title><language>de</language><description><string language="de">Grafik, interaktiv:Gerade für Jugendliche wird das Handy immer unentbehrlicher. Auch der Zugriff auf das Internet zu Informations- und Kommunikationszwecken ist enorm wichtig.</string></description><keyword><string language="de">Schaubild/Diagramm</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>ORG|LOKANDO AG unter Verwendung der Quelle</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:www.w2forum.cowww.oncomputer.t-online.dewww.zdnet.de
+N:www.w2forum.cowww.oncomputer.t-online.dewww.zdnet.de
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.6546245460_43001_13119</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>ORG|LOKANDO AG unter Verwendung der Quelle</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:www.w2forum.cowww.oncomputer.t-online.dewww.zdnet.de
+N:www.w2forum.cowww.oncomputer.t-online.dewww.zdnet.de
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/x-shockwave-flash</format><size>14096</size><location>always_on_in_Zahlen_114.swf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.699491234_63718_13153</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.699491234_63718_13153</entry></identifier>
+<title><string language="de">Aktuelle Informationen aus dem Smartphone</string></title><language>de</language><description><string language="de">Foto:Über das Smartphone ist man stets mit den aktuellsten Informationen versorgt, egal ob Wetter, Verkehrslage oder die neuesten Nachrichten.</string></description><keyword><string language="de">Foto</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.699491234_63718_13153</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>image/jpeg</format><size>102595</size><location>Aktuel_Info_Smartphone_096.jpg</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.7729953063_64282_13153</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.7729953063_64282_13153</entry></identifier>
+<title><string language="de">Ablauf des Telefonates im Mobilnetz</string></title><language>de</language><description><string language="de">Sachinformation:Wie funktioniert der Gesprächsaufbau beim Anruf mit dem Handy? </string></description><keyword><string language="de">Sachinformation</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.7729953063_64282_13153</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/pdf</format><size>30345</size><location>Ablauf_Telef_Mnetz_SI_060.pdf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.7831185219_49529_13165</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.7831185219_49529_13165</entry></identifier>
+<title><string language="de">Aktuell informiert über neue Technologien</string></title><language>de</language><description><string language="de">Link:Forschungs- und Entwicklungsseite von Siemens mit den neuesten Trends und Technologien - auch in Bezug auf Kommunikationstechnik.</string></description><keyword><string language="de">Lexikon</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|Die in dieser Mediensammlung enthaltenen Links sind Verweise auf fremde Inhalte und implizieren keinerlei Ansprüche auf oder Aussagen über die Rechte an diesen Inhalten.
+N:ORG|Die in dieser Mediensammlung enthaltenen Links sind Verweise auf fremde Inhalte und implizieren keinerlei Ansprüche auf oder Aussagen über die Rechte an diesen Inhalten.
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.7831185219_49529_13165</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|Die in dieser Mediensammlung enthaltenen Links sind Verweise auf fremde Inhalte und implizieren keinerlei Ansprüche auf oder Aussagen über die Rechte an diesen Inhalten.
+N:ORG|Die in dieser Mediensammlung enthaltenen Links sind Verweise auf fremde Inhalte und implizieren keinerlei Ansprüche auf oder Aussagen über die Rechte an diesen Inhalten.
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>mt</format><size>0</size><location>http://www.siemens.com/index.jsp?sdc_p=i1148625l0mno1189122pFEcfst4u20z1&amp;amp</location><location>sdc_sid=32694486259</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.8169359795_42752_13119</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.8169359795_42752_13119</entry></identifier>
+<title><string language="de">Always-on an unserer Schule</string></title><language>de</language><description><string language="de">Arbeitsblatt:Vorschlag zum Durchführen einer Umfrage, die das Nutzungsverhalten der Schüler an einer Schule untersucht.</string></description><keyword><string language="de">Arbeitsblatt (druckbar)</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.8169359795_42752_13119</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/pdf</format><size>98157</size><location>always_on_an_Schule_AB_115.pdf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+<classification><purpose><source>LOMv1.0</source><value>discipline</value></purpose><taxonPath><source><string language="x-t-lre">LRE Thesaurus</string></source><taxon><id>652</id><entry><string language="de">Informations- und Kommunikationstechnologie
+</string></entry></taxon></taxonPath></classification></lom>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>DE.LOKANDO.OBJ.77807536241306258659.950860538_44364_13161</identifier>
+<datestamp> 2006-07-01T08:00:00Z</datestamp>
+</header>
+<metadata>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM 
+http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general>
+<identifier>
+<catalog>DE.FWU</catalog><entry>DE.LOKANDO.OBJ.77807536241306258659.950860538_44364_13161</entry></identifier>
+<title><string language="de">Alles über das Internet</string></title><language>de</language><description><string language="de">Sachinformation:Die Grundlagen des Internets und des Intranets als Firmennetz im Internet werden erklärt. </string></description><keyword><string language="de">Sachinformation</string></keyword><structure><source>LOMv1.0</source><value>atomic</value></structure><aggregationLevel><source>LOMv1.0</source><value>1</value></aggregationLevel></general>
+<lifeCycle>
+<version><string language="de">1.0</string></version><status><source>LOMv1.0</source><value>final</value></status><contribute>
+<role><source>LOMv1.0</source><value>author</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source><value>publisher</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard
+]]>
+</entity>
+</contribute>
+</lifeCycle>
+<metaMetadata>
+<identifier>
+<catalog>DE.FWU</catalog><entry>metadata.DE.LOKANDO.OBJ.77807536241306258659.950860538_44364_13161</entry></identifier>
+<contribute>
+<role><source>LOMv1.0</source><value>creator</value></role><entity>
+<![CDATA[BEGIN:vCard
+VERSION:3.0
+FN:ORG|LOKANDO AG
+N:ORG|LOKANDO AG
+END:vcard
+]]>
+</entity>
+<date><dateTime>2006-07-01T08:00:00.0Z</dateTime></date></contribute>
+<language>de</language></metaMetadata>
+<technical>
+<format>application/pdf</format><size>123213</size><location>Alles_ueb_Internet_SI_008.pdf</location></technical><educational>
+<intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><intendedEndUserRole><source>LREv3.0</source><value>learner</value></intendedEndUserRole><context><source>LREv3.0</source><value>compulsory education</value></context><context><source>LREv3.0</source><value>vocational education</value></context><typicalAgeRange><string language="en">5</string></typicalAgeRange><typicalAgeRange><string language="en">6</string></typicalAgeRange><typicalAgeRange><string language="en">7</string></typicalAgeRange><typicalAgeRange><string language="en">8</string></typicalAgeRange><typicalAgeRange><string language="en">9</string></typicalAgeRange><typicalAgeRange><string language="en">10</string></typicalAgeRange><typicalAgeRange><string language="en">11</string></typicalAgeRange><typicalAgeRange><string language="en">12</string></typicalAgeRange><typicalAgeRange><string language="en">13</string></typicalAgeRange><language>de</language></educational>
+<rights>
+<cost><source>LOMv1.0</source><value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source><value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="de">usable only when licenced</string></description></rights>
+</lom>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>
